@@ -1,2 +1,2 @@
 # data-analysis-portfolio
-Internship Repository
+This repository contains my portfolio of data analysis projects completed during my virtual internship (July - October 2025).
